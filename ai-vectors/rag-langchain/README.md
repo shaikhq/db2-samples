@@ -1,8 +1,8 @@
-# Implementing Retrieval-Augmented Generation with IBM Db2 and LangChain on RHEL 9.4
+# Implementing Retrieval-Augmented Generation with IBM Db2, watsonx.ai, and LangChain
 
 ## Introduction
 
-This README presents step-by-step instructions for implementing a Retrieval-Augmented Generation (RAG) use case using IBM Db2 and LangChain on Red Hat Enterprise Linux (RHEL) 9.4. In a recent Early Access Program (EAP), Db2 introduced a native vector data type and vector similarity search functionality. Leveraging these capabilities, I have implemented a complete RAG pipeline with LangChain and Python in a Jupyter Notebook. Customers with access to this EAP build can try out these features in a non-production setup.
+This README presents step-by-step instructions for implementing a Retrieval-Augmented Generation (RAG) use case using IBM Db2 and LangChain. In a recent Early Access Program (EAP), Db2 introduced a native vector data type and vector similarity search functionality. Leveraging these capabilities, I have implemented a complete RAG pipeline with LangChain and Python in a Jupyter Notebook. Customers with access to this EAP build can try out these features in a non-production setup.
 
 ## Understanding Retrieval-Augmented Generation
 
